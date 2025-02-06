@@ -1,7 +1,7 @@
 # 🗄️ Advanced SQL Data Analysis using SQLite 
 
 This project focuses on leveraging SQL to extract, filter, and analyze structured datasets efficiently. Using SQLite3, the project demonstrates advanced querying techniques to derive meaningful insights from large datasets.
-<br><br
+<br><br>
 # 🚀 Key Features:
 
 o Database Management: Utilized SQLite3 to store and manage structured data.<br>
